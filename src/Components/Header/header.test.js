@@ -12,7 +12,7 @@ const setUp=(props={})=>{
 }
 
 
-
+ 
 describe('Header Componen',()=>{
     //Test 1
     let component 
